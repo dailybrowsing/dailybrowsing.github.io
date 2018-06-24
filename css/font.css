@@ -73,25 +73,25 @@
 .h1name h1 a:link
 {
     color: #00BFFF;
-    text-decoration: underline dotted #00BFFF;
+    text-decoration: none;
 }
 
 .h1name h1 a:visited
 {
     color: #00BFFF;
-    text-decoration: underline dotted #00BFFF;
+    text-decoration: none;
 }
 
 .h1name h1 a:hover
 {
     color: #00BFFF;
-    text-decoration: underline dotted #00BFFF;
+    text-decoration: none;
 }
 
 .h1name h1 a:active
 {
     color: #00BFFF;
-    text-decoration: underline dotted #00BFFF;
+    text-decoration: none;
 }
 
 .h3name
@@ -114,25 +114,25 @@
 .h3name h3 a:link
 {
     color: #00BFFF;
-    text-decoration: underline dotted #00BFFF;
+    text-decoration: none;
 }
 
 .h3name h3 a:visited
 {
     color: #00BFFF;
-    text-decoration: underline dotted #00BFFF;
+    text-decoration: none;
 }
 
 .h3name h3 a:hover
 {
     color: #00BFFF;
-    text-decoration: underline dotted #00BFFF;
+    text-decoration: none;
 }
 
 .h3name h3 a:active
 {
     color: #00BFFF;
-    text-decoration: underline dotted #00BFFF;
+    text-decoration: none;
 }
 
 .read_me
