@@ -4,6 +4,11 @@
    src: url(font/arbutusslab-regular.ttf);   
 }
 
+/*
+//old color: #00BFFF;
+//new color: #00AAFF;
+*/
+
 .position_top
 {
 	height: 64px;
@@ -38,7 +43,7 @@
 {
 	font-family: MyFirstFont;
     font-size: 40px;
-    color: #00BFFF;
+    color: #00AAFF;
     margin: 8px auto;
 	width:300px;
 }
@@ -66,31 +71,31 @@
 {
     font-family: MyFirstFont;
     font-size: 36px;
-    color: #00BFFF;
+    color: #00AAFF;
     margin: 0px auto;
 }
 
 .h1name h1 a:link
 {
-    color: #00BFFF;
+    color: #00AAFF;
     text-decoration: none;
 }
 
 .h1name h1 a:visited
 {
-    color: #00BFFF;
+    color: #00AAFF;
     text-decoration: none;
 }
 
 .h1name h1 a:hover
 {
-    color: #00BFFF;
+    color: #00AAFF;
     text-decoration: none;
 }
 
 .h1name h1 a:active
 {
-    color: #00BFFF;
+    color: #00AAFF;
     text-decoration: none;
 }
 
@@ -106,32 +111,32 @@
 {
 	font-family: MyFirstFont;
     font-size: 16px;
-    color: #00BFFF;
+    color: #00AAFF;
     margin: 0px auto;
 }
 
 
 .h3name h3 a:link
 {
-    color: #00BFFF;
+    color: #00AAFF;
     text-decoration: none;
 }
 
 .h3name h3 a:visited
 {
-    color: #00BFFF;
+    color: #00AAFF;
     text-decoration: none;
 }
 
 .h3name h3 a:hover
 {
-    color: #00BFFF;
+    color: #00AAFF;
     text-decoration: none;
 }
 
 .h3name h3 a:active
 {
-    color: #00BFFF;
+    color: #00AAFF;
     text-decoration: none;
 }
 
@@ -219,4 +224,109 @@
 	margin: 0px auto;
     color: #000000;
 }
+
+
+
+
+
+.arrows
+{
+    height: 64px;
+    width:100%;
+    clear: both;
+    overflow: hidden;
+}
+
+.left_arrow
+{
+    float:left;
+    display: block;
+    text-align: left;
+}
+
+.left_arrow a img
+{
+    width: 90px;
+}
+
+.left_arrow a:link
+{
+    color: #00AAFF;
+    text-decoration: none;
+}
+
+.left_arrow a:active
+{
+    color: #00AAFF;
+}
+
+.left_arrow a:hover
+{
+    color: #00AAFF;
+}
+
+.left_arrow a:visited
+{
+    color: #00AAFF;
+}
+
+.left_arrow a p
+{
+    width: 300px;
+    
+    font-family: MyFirstFont;
+    font-size: 40px;
+    margin: 8px auto;
+}
+
+
+
+
+
+
+.right_arrow
+{
+    float:right;
+    display: block;
+    text-align: right;
+}
+
+.right_arrow a img
+{
+    width: 90px;
+}
+
+.right_arrow a:link
+{
+    color: #00AAFF;
+    text-decoration: none;
+}
+
+.right_arrow a:active
+{
+    color: #00AAFF;
+}
+
+.right_arrow a:hover
+{
+    color: #00AAFF;
+}
+
+.right_arrow a:visited
+{
+    color: #00AAFF;
+}
+
+.right_arrow a p
+{
+    width: 210px;
+
+    font-family: MyFirstFont;
+    font-size: 40px;
+    margin: 8px auto;
+}
+
+
+
+
 
